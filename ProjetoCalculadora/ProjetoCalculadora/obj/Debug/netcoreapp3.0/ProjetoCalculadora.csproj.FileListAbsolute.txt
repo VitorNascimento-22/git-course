@@ -1,0 +1,11 @@
+C:\Users\vitor.nascimento\Documents\C#\Projetos\ProjetoCalculadora\ProjetoCalculadora\bin\Debug\netcoreapp3.0\ProjetoCalculadora.exe
+C:\Users\vitor.nascimento\Documents\C#\Projetos\ProjetoCalculadora\ProjetoCalculadora\bin\Debug\netcoreapp3.0\ProjetoCalculadora.deps.json
+C:\Users\vitor.nascimento\Documents\C#\Projetos\ProjetoCalculadora\ProjetoCalculadora\bin\Debug\netcoreapp3.0\ProjetoCalculadora.runtimeconfig.json
+C:\Users\vitor.nascimento\Documents\C#\Projetos\ProjetoCalculadora\ProjetoCalculadora\bin\Debug\netcoreapp3.0\ProjetoCalculadora.runtimeconfig.dev.json
+C:\Users\vitor.nascimento\Documents\C#\Projetos\ProjetoCalculadora\ProjetoCalculadora\bin\Debug\netcoreapp3.0\ProjetoCalculadora.dll
+C:\Users\vitor.nascimento\Documents\C#\Projetos\ProjetoCalculadora\ProjetoCalculadora\bin\Debug\netcoreapp3.0\ProjetoCalculadora.pdb
+C:\Users\vitor.nascimento\Documents\C#\Projetos\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\netcoreapp3.0\ProjetoCalculadora.csprojAssemblyReference.cache
+C:\Users\vitor.nascimento\Documents\C#\Projetos\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\netcoreapp3.0\ProjetoCalculadora.AssemblyInfoInputs.cache
+C:\Users\vitor.nascimento\Documents\C#\Projetos\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\netcoreapp3.0\ProjetoCalculadora.AssemblyInfo.cs
+C:\Users\vitor.nascimento\Documents\C#\Projetos\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\netcoreapp3.0\ProjetoCalculadora.dll
+C:\Users\vitor.nascimento\Documents\C#\Projetos\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\netcoreapp3.0\ProjetoCalculadora.pdb
